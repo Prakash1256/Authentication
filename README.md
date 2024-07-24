@@ -1,4 +1,4 @@
-deployed Link:-https://66a0c0f95b0d38e45dd21878--fascinating-sunshine-084e92.netlify.app/
+deployed Link:- https://66a0ca49e83d7ced801b6a06--sparkly-profiterole-3906fb.netlify.app/
  
 i have created this signup and Login pannel using firebase Atuhentication
 
